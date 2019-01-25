@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name":"Palestina",
+        "SIA": "Sustainable food production"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.62190055847168,
+          5.018571063808203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name":"Camino de Santiago",
+        "SIA": "Pilgrimage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.543586730957031,
+          42.87030291777761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name":"PIAM",
+        "SIA":"Migration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.213996887207031,
+          44.89601180781499
+        ]
+      }
+    }
+  ]
+}
